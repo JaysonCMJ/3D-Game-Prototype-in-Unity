@@ -14,10 +14,7 @@ This project was developed as part of my time in university, this Roguelike game
 
 <p align="center">
 Main Menu Screen: <br/>
-![image](https://github.com/user-attachments/assets/2ec420a7-7cca-4dad-a0b0-c69efe236582)
-![image](https://github.com/user-attachments/assets/43f4e7da-d0c0-48fa-b41b-f8e4990d3d6b)
-
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://github.com/user-attachments/assets/2ec420a7-7cca-4dad-a0b0-c69efe236582" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
 Level 1:  <br/>
