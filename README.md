@@ -13,32 +13,45 @@ This project was developed as part of my time in university, this Roguelike game
 <h2>Demo Screenshots:</h2>
 
 <p align="center">
-Main Menu Screen: <br/>
+Main Menu Screen: 
+<br/>
+<br/>
 <img src="Screenshots/NH Main Menu.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
-
 <br />
-Level 1:  <br/>
+Level 1:  
+<br/>
+<br/>
 <img src="Screenshots/NH Lv 1.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
-Selecting a Powerup at the end:  <br/>
+In combat you can use both a Sword for melee and a Fireball for ranged attacks  
+<br/>
+<br/>
+<img src="Screenshots/NH Combat.PNG" height="80%" width="80%" alt="3D_project"/>
+<br/>
+<br/>
+Selecting a Powerup at the end is randomised between a few different stat buffs
+<br/>
+<br/> 
 <img src="Screenshots/NH Buff.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
-Level 2: <br/>
+Level 2:
+<br/>
+<br/>  
 <img src="Screenshots/NH Lv 2.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
-Finding a powerup: <br/>
-<img src="Screenshots/NH Power up.PNG" height="80%" width="80%" alt="3D_project"/>
+Powerups can also be found in the open world:
+<br/>
+<br/>  
+<img src="Screenshots/NH Power Up.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />  
-Level 3:  <br/>
+Level 3 features a Boss in an arena:
+<br/>
+<br/>  
 <img src="Screenshots/NH Lv 3.PNG" height="80%" width="80%" alt="3D_project"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
