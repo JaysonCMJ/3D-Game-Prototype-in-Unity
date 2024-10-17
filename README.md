@@ -14,30 +14,31 @@ This project was developed as part of my time in university, this Roguelike game
 
 <p align="center">
 Main Menu Screen: <br/>
-<img src="(https://github.com/user-attachments/assets/2ec420a7-7cca-4dad-a0b0-c69efe236582" height="80%" width="80%" alt="3D_project"/>
+<img src="Screenshots/NH Main Menu.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
+
 <br />
 Level 1:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshots/NH Lv 1.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
 Selecting a Powerup at the end:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshots/NH Buff.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
 Level 2: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshots/NH Lv 2.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
-Finding a poweru: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finding a powerup: <br/>
+<img src="Screenshots/NH Power up.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />  
 Level 3:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshots/NH Lv 3.PNG" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="3D_project"/>
 <br />
 <br />
